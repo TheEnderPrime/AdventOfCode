@@ -1,0 +1,16 @@
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\bin\Debug\net5.0\AdventOfCode_2024.exe
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\bin\Debug\net5.0\AdventOfCode_2024.deps.json
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\bin\Debug\net5.0\AdventOfCode_2024.runtimeconfig.json
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\bin\Debug\net5.0\AdventOfCode_2024.runtimeconfig.dev.json
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\bin\Debug\net5.0\AdventOfCode_2024.dll
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\bin\Debug\net5.0\ref\AdventOfCode_2024.dll
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\bin\Debug\net5.0\AdventOfCode_2024.pdb
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\AdventOfCode_2024.csprojAssemblyReference.cache
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\AdventOfCode_2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\AdventOfCode_2024.AssemblyInfoInputs.cache
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\AdventOfCode_2024.AssemblyInfo.cs
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\AdventOfCode_2024.csproj.CoreCompileInputs.cache
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\AdventOfCode_2024.dll
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\ref\AdventOfCode_2024.dll
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\AdventOfCode_2024.pdb
+D:\Code\GitHub\AdventOfCode\AdventOfCode_2024\adventofcode_2024\obj\Debug\net5.0\AdventOfCode_2024.genruntimeconfig.cache
